@@ -1,0 +1,13 @@
+{
+    "name": "gcp-typescript",
+    "devDependencies": {
+        "@types/node": "^8.0.0"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^1.6.1",
+        "@pulumi/gcp": "^1.7.0",
+        "@pulumi/kubernetesx": "latest",
+        "@pulumi/cloud": "latest",
+        "@pulumi/mysql": "latest"
+    }
+}
